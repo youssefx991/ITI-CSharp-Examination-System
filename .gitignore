@@ -1,0 +1,38 @@
+## Visual Studio Build Outputs
+bin/
+obj/
+[Rr]elease/
+[Dd]ebug/
+x64/
+x86/
+
+## User-specific files (Visual Studio)
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Visual Studio cache and settings
+.vs/
+.idea/
+*.vshost.exe
+*.vshost.exe.config
+*.vshost.exe.manifest
+
+## NuGet Packages
+*.nupkg
+packages/
+
+## Log files (Relevant for your QuestionList logs)
+*.log
+# If you want to keep your assignment logs, remove the line above
+# or specify the exact filename you used in your code.
+
+## Test Results
+TestResults/
+*.trx
+
+## Operating System files
+.DS_Store
+Thumbs.db
