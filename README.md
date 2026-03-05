@@ -158,16 +158,6 @@ The system includes sample mathematics questions:
 - **Day**: 7
 - **Repository**: [ITI-C--Examination-System](https://github.com/youssefx991/ITI-C--Examination-System)
 
-## 🎯 Future Enhancements
-
-- Add database support for questions and results
-- Implement user authentication
-- Add time limit enforcement
-- Generate detailed performance reports
-- Support for question randomization
-- Web-based interface
-- Multiple subjects support
-
 ## 📖 License
 
 This project is part of ITI coursework and is intended for educational purposes.
